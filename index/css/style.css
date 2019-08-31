@@ -44,10 +44,10 @@ img {
     vertical-align:middle
 }
 body {
-    cursor:url(https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/default.cur), auto!important
+    cursor:url(https://cdn.jsdelivr.net/gh/shan-de-na-bian-hai-de-na-bian/CDN/index/images/default.cur), auto!important
 }
 a, img {
-    cursor:url(https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/pointer.cur), auto!important
+    cursor:url(https://cdn.jsdelivr.net/gh/shan-de-na-bian-hai-de-na-bian/CDN/index/images/pointer.cur), auto!important
 }
 a {
     text-decoration:none;
@@ -107,7 +107,7 @@ main {
     position:relative
 }
 .content {
-    background-image:url(https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/bg-light.jpg)
+    background-image:url(https://cdn.jsdelivr.net/gh/shan-de-na-bian-hai-de-na-bian/CDN/index/images/bg-light.jpg)
 }
 .content-intro {
     z-index:2;
